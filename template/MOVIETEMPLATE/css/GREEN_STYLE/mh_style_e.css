@@ -1,0 +1,493 @@
+.bodyBg1 { 
+	background-image:url(../../images/GREEN_STYLE/bg.jpg);
+	background-repeat:no-repeat;
+}
+
+
+.bodyBg { 
+	background-image:url(../../images/GREEN_STYLE/bg.jpg);
+	background-repeat:no-repeat;
+}
+.body_e {
+	font-family: "Helvetica Neue (65 Medium)", Arial;
+	color:#ebebeb;
+}
+table {
+	border:0px;
+	padding:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	font-size:14px;
+
+}
+
+
+.logo {
+	position: relative;
+	top:10px;
+	text-indent:0px;
+}
+.paddingLeft25 {
+	padding-left:25px;
+}
+.paddingLeft18 {
+	padding-left:18px;
+}
+.paddingLeft15 {
+	padding-left:15px;
+}
+.paddingLeft13 {
+	padding-left:13px;
+}
+.paddingLeft10 {
+	padding-left:10px;
+}
+.paddingLeft6 {
+	padding-left:6px;
+}
+.paddingRight50 {
+	padding-right:50px;
+}
+.paddingRight20 {
+	padding-right:20px;
+}
+.txtLetterSpace-1 {
+	letter-spacing:-1px;
+	}	
+.txt01 {
+	font-size:14px;
+	color:#ebebeb;
+}
+.txt02 {
+	font-size:14px;
+	color:#ebebeb;
+}
+.txt03 {
+	font-size:12px;
+	color:#ebebeb;
+}
+.fontSize14 {
+	font-size:12px;
+}	
+.nowfontsize23 {
+	font-size:18px;
+	line-height:16px;
+}
+.txtInfo01 {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#19567c;
+}
+.txtInfo02 {
+	font-size:12px;
+	color:#96EAFF;
+	line-height:16px;
+}
+.txtInfo03 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:14px;
+}
+.txtInfo04 {
+	font-size:12px;
+	color:#ebebeb;
+	line-height:16px;
+}
+
+.txtInvalid {
+	font-size:12px;
+	color:#ffe400;
+	line-height:18px;
+	vertical-align:top;
+}
+.lineHeight35 {
+	line-height:35px;
+}	
+/**  select items **/
+
+.header01 {
+	background-image:url(../../images/GREEN_STYLE/details_box_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.header02 {
+	background-image:url(../../images/GREEN_STYLE/details_box_header02.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.select01 {
+	background-image:url(../../images/GREEN_STYLE/details_box_01_on.png);
+	color:#034772;
+	font-size:14px;
+	text-indent:40px;
+}
+.select02 {
+	background-image:url(../../images/GREEN_STYLE/details_box_02_on.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.unselect01 {
+	background-image:url(../../images/GREEN_STYLE/details_box_01_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.unselect02 {
+	background-image:url(../../images/GREEN_STYLE/details_box_02_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+
+/**  details page items **/
+
+.title01 {	font-size:14px;	color:#034772;	text-indent:18px;	line-height:26px;}
+.title02 {	text-indent:10px;}
+
+.duration01 {	font-size:14px;	color:#034772;	text-indent:18px;}
+.duration02 {	text-indent:10px;}
+
+.language01 {	font-size:14px;	color:#034772;	text-indent:10px;}
+.language02 {	color:#ebebeb;	padding-left:20px;}
+
+.casthost01 {	font-size:14px;	color:#034772;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.casthost02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.synopsis01 {	font-size:14px;	color:#034772;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.synopsis02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.offairdate01 {	font-size:14px;	color:#034772;	text-indent:18px;}
+.offairdate02 {	text-indent:10px;}
+
+.currentcashpoint01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.currentcashpoint02 {	color:#ebebeb;	padding-left:20px;}
+
+
+
+/**  landing page **/
+
+.cateSelect {
+	color:#000000;
+	background-repeat:repeat-x;
+	background-image:url(../../images/GREEN_STYLE/Cat_highlight.png);
+}
+.cateUnSelect {
+	color:#105ae3;
+}
+.pageNum {
+	font-size:14px;
+	line-height:16px;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:40px;
+	vertical-align:top;
+	text-align:left;
+}
+.pageNumBg {
+	background-image:url(../../images/GREEN_STYLE/page_num_bg.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+
+}
+
+.movieSelect {
+	background-image:url(../../images/GREEN_STYLE/movie_bg_on.png);
+	background-repeat:no-repeat;
+}
+.movieUnSelect {
+	background-image:url(../../images/GREEN_STYLE/movie_bg_off.png);
+	background-repeat:no-repeat;
+}
+.movieTxt {
+	width:115px;
+	height:37px;
+	font-size:14px;
+	line-height:18px;
+	vertical-align:top;
+	text-align: left;
+}
+.movie2Txt {
+	width:115px;
+	height:37px;
+	font-size:14px;
+	line-height:18px;
+	vertical-align:top;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/**  playlist page **/
+.headerPlaylist {
+	background-image:url(../../images/GREEN_STYLE/list_box_header474.png);
+	font-size:14px;
+	color:#ebebeb;
+}
+.selectPlaylist {
+	background-image:url(../../images/GREEN_STYLE/list_box_on.png);
+	background-repeat:no-repeat;
+	color:#034772;
+}
+.unselectPlaylist {
+	background-image:url(../../images/GREEN_STYLE/list_box_off.png);
+	background-repeat:no-repeat;
+}
+
+
+.paddingTop4 {
+	font-size:14px;
+	color:#ebebeb;
+	vertical-align:top;
+	padding-top:4px;
+	line-height:18px;
+	border:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}	
+
+
+/**  svod subscription page **/
+.termConditionTxt {
+	vertical-align:top;
+	width:142px;
+	font-size:12px;
+	line-height:16px;
+	color:#19567C;
+}
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../../images/GREEN_STYLE/time_remain_bar.png);
+}
+
+
+/**  T&C page **/
+
+
+
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/**  Classification page **/
+
+
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#ebebeb;
+}
+
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+
+/**  ppv topup page **/
+
+.selectTopUp01 {
+	background-image:url(../../images/GREEN_STYLE/topup_box_01_on.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+.unselectTopUp01 {
+	background-image:url(../../images/GREEN_STYLE/topup_box_01_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+/**  input box **/
+
+.inputBox {
+	background-image:url(../../images/GREEN_STYLE/inputbox_bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+} 
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../../images/GREEN_STYLE/time_remain_bar.png);
+}
+
+/**  T&C page **/
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/**  Classification page **/
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#ebebeb;
+}
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/*style added from frontend*/
+.bodyBg_a { 
+	background-image:url(../../images/GREEN_STYLE/bg.jpg);
+	background-repeat:no-repeat;
+}
+
+.paddingLeftSelect {
+	padding-left: 10px;
+}
+
+.movieTxt {
+	word-wrap: break-word;
+}
+.movieTxt {
+        width:140px;
+        height:37px;
+        font-size:14px;
+        line-height:18px;
+        vertical-align:top;
+        padding-left:10px;
+}
+
+.morePlan_show {
+	height: 32px;
+}
+
+.morePlan_hide {
+	height: 0px;
+}
+
+.morePlanUp {
+	margin-left:40px;
+	font-size:12px;
+	text-indent:0px;
+}
+
+.morePlanDown {
+	font-size:12px;
+	margin-left:40px;
+	text-indent:0px;
+}
+.series_list_hide {
+	display:none;
+}
+.inputBox {
+        background-image:url(../../images/GREEN_STYLE/inputbox_bg.png);
+        background-repeat:no-repeat;
+        background-position:left;
+}
+.unselect01 {
+	text-indent:0px;
+}
+.unselect02 {
+	text-indent:0px;
+	background-repeat:repeat-x;
+}
+.select02 {
+	text-indent:0px;
+	background-repeat:repeat-x;
+}
+
+.movieSelect div{
+        width:140px;
+        height:37px;
+        font-size:14px;
+        line-height:18px;
+        vertical-align:top;
+        text-align: left;
+        word-wrap: break-word;
+        padding-left:10px;
+        color:#000000;
+}
+
+.movieUnSelect div{
+        width:140px;
+        height:37px;
+        font-size:14px;
+        line-height:18px;
+        vertical-align:top;
+        word-wrap: break-word;
+        padding-left:10px;
+        text-align: left;
+        color:#ffffff;
+}
+
+.pageNumBg {
+	margin-left:10px;
+	background-position:right center;
+}
+
+.logo {
+        left:10px;
+}
+
+.txtInfo01 {
+	font-size:12px;
+}
+
+
+.txtInfo02 {
+	vertical-align:top;
+	line-height:13px;
+}
+
+.cateSelect {
+	margin-top:2px;
+}
+.cateUnSelect {	
+        margin-top:2px;
+}
+
+#footer{
+	height:33px;
+}
+
+.pageNum {
+        font-size:14px;
+        line-height:16px;
+        padding-top:4px;
+        padding-bottom:4px;
+        padding-right:26px;
+        vertical-align:top;
+        text-align:center;
+}
+/*.synopsis02{
+        word-wrap: break-word;
+        overflow: hidden;
+}*/
+body ,td, tr, div, span, p{	
+        word-wrap: break-word;
+        overflow: hidden;
+}
+.termConditionTxt {
+        width:162px;
+}

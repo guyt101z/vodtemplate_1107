@@ -1,0 +1,13 @@
+var library_list=new Array();
+library_list[0]= new Library("C201002050000138","svod_cp_liga.gif","svod_cp_liga.gif","http://visvod.netvigator.com/jsp/{lang}/svodLaLiga/checkSTB.jsp?");
+library_list[1]= new Library("C201101130000335","svod_cp_pga.gif","svod_cp_pga.gif","http://visvod.netvigator.com/jsp/{lang}/svodPGA/svod_landing.jsp?");
+library_list[2]= new Library("C281","svod_cp_nba.gif","svod_cp_nba.gif","http://visvod.netvigator.com/jsp/{lang}/svodNBA/subscription/pre_check_subscription.jsp?");
+library_list[3]= new Library("C201002050000139","svod_cp_timA.gif","svod_cp_timA.gif","http://visvod.netvigator.com/jsp/{lang}/svodISA/type_selection.html?");
+library_list[4]= new Library("C201012140000309","svod_cp_FAcup.gif","svod_cp_FAcup.gif","http://visvod.netvigator.com/jsp/{lang}/svodFA/subscription/pre_check_subscription.jsp?");
+library_list[5]= new Library("C601","svod_cp_atp.gif","svod_cp_atp.gif","http://visvod.netvigator.com/jsp/{lang}/svodATP/checkSTB.jsp?");
+library_list[6]= new Library("C681","svod_cp_moreSports_e.gif","svod_cp_moreSports_c.gif","http://visvod.netvigator.com/jsp/{lang}/svodNowSports/checkSTB.jsp?");
+library_list[7]= new Library("C201002050000140","svod_cp_golf.gif","svod_cp_golf.gif","http://visvod.netvigator.com/jsp/{lang}/svodGolf/svod_landing.jsp?");
+library_list[8]= new Library("C201106150000000","svod_cp_default_eng.png","svod_cp_default_chi.png","http://visvod.netvigator.com/jsp/{lang}/svodNBA/subscription/pre_check_subscription.jsp?");
+library_list[9]= new Library("C201106150000002","svod_cp_default_eng.png","svod_cp_default_chi.png","http://visvod.netvigator.com/jsp/{lang}/svodISA/type_selection.html?");
+library_list[10]= new Library("C201106150000004","svod_cp_default_eng.png","svod_cp_default_chi.png","http://visvod.netvigator.com/jsp/{lang}/svodLaLiga/checkSTB.jsp?");
+library_list[11]= new Library("C201106150000005","svod_cp_default_eng.png","svod_cp_default_chi.png","http://visvod.netvigator.com/jsp/{lang}/svodPGA/svod_landing.jsp?");

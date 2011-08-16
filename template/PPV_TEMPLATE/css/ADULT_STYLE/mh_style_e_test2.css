@@ -1,0 +1,380 @@
+.bodyBg { 
+	background-repeat:no-repeat;
+}
+.body_e {
+	font-family: "Helvetica Neue (65 Medium)", Arial;
+	color:#ebebeb;
+}
+table {
+	border:0px;
+	padding:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	font-size:14px;
+
+}
+
+
+.logo {
+	position: relative;
+	top:10px;
+	text-indent:10px;
+}
+.paddingLeft25 {
+	padding-left:25px;
+}
+.paddingLeft18 {
+	padding-left:18px;
+}
+.paddingLeft13 {
+	padding-left:13px;
+}
+.paddingLeft10 {
+	padding-left:10px;
+}
+.paddingLeft6 {
+	padding-left:6px;
+}
+.paddingLeft3 {
+	padding-left:3px;
+}
+.paddingRight50 {
+	padding-right:50px;
+}
+.errorTxt {
+	line-height:30px;
+}
+.txtLetterSpace-1 {
+	letter-spacing:-1px;
+	}	
+.txt01 {
+	font-size:12px;
+	color:#000000;
+}
+.txt02 {
+	font-size:14px;
+	color:#000000;
+}
+.txt03 {
+	font-size:16px;
+	color:#000000;
+}
+.txt04 {
+	font-size:18px;
+	color:#000000;
+}
+.fontSize14 {
+	font-size:12px;
+}	
+.nowfontsize23 {
+	font-size:18px;
+	line-height:16px;
+}
+.txtInfo01 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9397a4;
+}
+.txtInfo02 {
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:16px;
+}
+.txtInfo03 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:14px;
+}
+.txtInfo04 {
+	font-size:12px;
+	color:#ebebeb;
+	line-height:16px;
+}
+
+.txtInvalid {
+	font-size:12px;
+	color:#ea3838;
+	line-height:18px;
+	vertical-align:top;
+}
+
+.lineHeight35 {
+	line-height:35px;
+}	
+/**  select items **/
+
+.header01 {
+	background-image:url(../../../images/details_box_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.headerlonger01 {
+	background-image:url(../../../images/details_box_longer_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.headershorter01 {
+	background-image:url(../../../images/details_box_shorter_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:35px;
+}
+.header02 {
+	background-image:url(../../../images/details_box_header02.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.headerlonger02 {
+	background-image:url(../../../images/details_box_longer_header02.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.select01 {
+	background-image:url(../../../images/details_box_01_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.selectlonger01 {
+	background-image:url(../../../images/details_box_01_longer_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.selectshorter01 {
+	background-image:url(../../../images/details_box_01_shorter_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:35px;
+}
+.select02 {
+	background-image:url(../../../images/details_box_02_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.selectlonger02 {
+	background-image:url(../../../images/details_box_02_longer_on.png);
+	color:#ebebeb;
+	font-size:12px;
+}
+.unselect01 {
+	background-image:url(../../../images/details_box_01_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.unselectlonger01 {
+	background-image:url(../../../images/details_box_01_longer_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.unselectshorter01 {
+	background-image:url(../../../images/details_box_01_shorter_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:35px;
+}
+.unselect02 {
+	background-image:url(../../../images/details_box_02_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:25px;
+}
+.unselectlonger02 {
+	background-image:url(../../../images/details_box_02_longer_off.png);
+	color:#ebebeb;
+	font-size:12px;
+}
+.morePlanDown {
+	background-image:url(../../../images/moreplan_bar_down.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+
+/**  details page items **/
+
+.title01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	line-height:26px;}
+.title02 {	text-indent:10px;}
+
+.duration01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.duration02 {	text-indent:10px;}
+
+.language01 {	font-size:14px;	color:#9eaaaf;	text-indent:10px;}
+.language02 {	color:#ebebeb;	padding-left:20px;}
+
+.casthost01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.casthost02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.synopsis01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.synopsis02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.offairdate01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.offairdate02 {	text-indent:10px;}
+
+.currentcashpoint01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.currentcashpoint02 {	color:#ebebeb;	padding-left:20px;}
+
+
+
+/**  landing page **/
+
+.cateSelect {
+	color:#ef9528;
+}
+.cateUnSelect {
+	color:#ebebeb;
+}
+.pageNum {
+	font-size:14px;
+	line-height:16px;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-right:15px;
+	vertical-align:top;
+	text-align:center;
+}
+.pageNumBg {
+    background-image:url(../../../images/page_num_bg.png);
+    background-repeat:no-repeat;
+    background-position:552px 4px;
+}
+.movieSelect {
+	background-image:url(../../../images/movie_bg_on.png);
+	background-repeat:no-repeat;
+}
+.movieUnSelect {
+	background-image:url(../../../images/movie_bg_off.png);
+	background-repeat:no-repeat;
+}
+.movieTxt {
+	width:140px;
+	height:37px;
+	font-size:14px;
+	line-height:18px;
+	vertical-align:top;
+	text-align: left;
+	padding-left:10px;
+}
+
+
+
+
+/**  playlist page **/
+.headerPlaylist {
+	background-image:url(../../../images/list_box_header474.png);
+	font-size:14px;
+	color:#ebebeb;
+}
+.selectPlaylist {
+	background-image:url(../../../images/list_box_on.png);
+	background-repeat:no-repeat;
+}
+.unselectPlaylist {
+	background-image:url(../../../images/list_box_off.png);
+	background-repeat:no-repeat;
+}
+
+.paddingTop4 {
+	font-size:14px;
+	color:#ebebeb;
+	vertical-align:top;
+	padding-top:4px;
+	line-height:18px;
+	border:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}	
+
+.paddingTop3 {
+	padding-top:3px;
+}	
+
+/**  svod subscription page **/
+.termConditionTxt {
+	vertical-align:top;
+	width:142px;
+	font-size:10px;
+	line-height:16px;
+	color:#9eaaaf;
+}
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../../../images/time_remain_bar.png);
+}
+
+/**  T&C page **/
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/**  Classification page **/
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#ebebeb;
+}
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+
+
+/**  ppv topup page **/
+
+.selectTopUp01 {
+	background-image:url(../../../images/topup_box_01_on.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+.unselectTopUp01 {
+	background-image:url(../../../images/topup_box_01_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+/**  input box **/
+
+.inputBox {
+	background-image:url(../../../images/inputbox_bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+} 
+
+/**  classicification **/
+
+.classicification {
+	background-image:url(../../../images/classicification_bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	color:#ebebeb;
+	font-size:17px;
+	vertical-align:middle;
+	text-align: center;	
+} 
+
+

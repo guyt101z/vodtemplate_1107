@@ -1,0 +1,391 @@
+.bodyBg { 
+	background-image:url(../../images/BLUE_STYLE/bg.jpg);
+	background-repeat:no-repeat;
+}
+.bodyBg_a {
+	background: url("../../images/BLUE_STYLE/bg_A.jpg") no-repeat;
+}
+.body_e {
+	font-family: "Helvetica Neue (65 Medium)", Arial;
+	color:#ebebeb;
+}
+table {
+	border:0px;
+	padding:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	font-size:14px;
+
+}
+
+
+.logo {
+	position: relative;
+	top:10px;
+	text-indent:10px;
+}
+.paddingLeft25 {
+	padding-left:25px;
+}
+.paddingLeft18 {
+	padding-left:18px;
+}
+.paddingLeft13 {
+	padding-left:13px;
+}
+.paddingLeft10 {
+	padding-left:10px;
+}
+.paddingLeft6 {
+	padding-left:6px;
+}
+.paddingLeft3 {
+	padding-left:3px;
+}
+.paddingRight50 {
+	padding-right:50px;
+}
+.txtLetterSpace-1 {
+	letter-spacing:-1px;
+	}	
+.txt01 {
+	font-size:14px;
+	color:#ebebeb;
+}
+.txt02 {
+	font-size:14px;
+	color:#9eaaaf;
+}
+.txt03 {
+	font-size:12px;
+	color:#ebebeb;
+}
+.fontSize14 {
+	font-size:12px;
+}	
+.nowfontsize23 {
+	font-size:18px;
+	line-height:16px;
+}
+.txtInfo01 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9397a4;
+}
+.txtInfo02 {
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:16px;
+}
+.txtInfo03 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:14px;
+}
+.txtInfo04 {
+	font-size:12px;
+	color:#ebebeb;
+	line-height:16px;
+}
+
+.txtInvalid {
+	font-size:12px;
+	color:#ea3838;
+	line-height:18px;
+	vertical-align:top;
+}
+
+.lineHeight35 {
+	line-height:35px;
+}	
+/**  select items **/
+
+.header01 {
+	background-image:url(../../images/BLUE_STYLE/details_box_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.header02 {
+	background-image:url(../../images/BLUE_STYLE/details_box_header02.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.select01 {
+	background-image:url(../../images/BLUE_STYLE/details_box_01_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:40px;
+}
+.select02 {
+	background-image:url(../../images/BLUE_STYLE/details_box_02_on.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:10px;
+}
+.unselect01 {
+	background-image:url(../../images/BLUE_STYLE/details_box_01_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:40px;
+}
+.unselect02 {
+	background-image:url(../../images/BLUE_STYLE/details_box_02_off.png);
+	color:#ebebeb;
+	font-size:12px;
+	text-indent:10px;
+}
+.morePlanDown {
+	background-image:url(../../images/BLUE_STYLE/moreplan_bar_down.png);
+	background-repeat:no-repeat;
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.morePlanUp {
+	background-image:url(../../images/BLUE_STYLE/moreplan_bar_up.png);
+	background-repeat:no-repeat;
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+/**  details page items **/
+
+.title01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	line-height:26px;}
+.title02 {	text-indent:10px;}
+
+.duration01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.duration02 {	text-indent:10px;}
+
+.language01 {	font-size:14px;	color:#9eaaaf;	text-indent:10px;}
+.language02 {	color:#ebebeb;	padding-left:20px;}
+
+.casthost01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.casthost02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.synopsis01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.synopsis02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.offairdate01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.offairdate02 {	text-indent:10px;}
+
+.currentcashpoint01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.currentcashpoint02 {	color:#ebebeb;	padding-left:20px;}
+
+
+
+/**  landing page **/
+
+.cateSelect {
+	color: #000000;
+}
+.cateUnSelect {
+	color:#ebebeb;
+}
+.pageNum {
+	font-size:14px;
+	line-height:16px;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-right:15px;
+	vertical-align:top;
+	text-align:center;
+}
+.pageNumBg {
+    background-image:url(../../images/BLUE_STYLE/page_num_bg.png);
+    background-repeat:no-repeat;
+    background-position:552px 4px;
+}
+.movieSelect {
+	background-image:url(../../images/BLUE_STYLE/movie_bg_on.png);
+	background-repeat:no-repeat;
+}
+.movieUnSelect {
+	background-image:url(../../images/BLUE_STYLE/movie_bg_off.png);
+	background-repeat:no-repeat;
+}
+.movieTxt {
+	width:140px;
+	height:37px;
+	font-size:14px;
+	line-height:18px;
+	vertical-align:top;
+	text-align: left;
+	padding-left:10px;
+}
+
+
+
+
+/**  playlist page **/
+.headerPlaylist {
+	background-image:url(../../images/BLUE_STYLE/list_box_header474.png);
+	font-size:14px;
+	color:#ebebeb;
+}
+.selectPlaylist {
+	background-image:url(../../images/BLUE_STYLE/list_box_on.png);
+	background-repeat:no-repeat;
+}
+.unselectPlaylist {
+	background-image:url(../../images/BLUE_STYLE/list_box_off.png);
+	background-repeat:no-repeat;
+}
+
+.paddingTop4 {
+	font-size:14px;
+	color:#ebebeb;
+	vertical-align:top;
+	padding-top:4px;
+	line-height:18px;
+	border:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}	
+
+.paddingTop3 {
+	padding-top:3px;
+}	
+
+/**  svod subscription page **/
+.termConditionTxt {
+	vertical-align:top;
+	width:142px;
+	font-size:10px;
+	line-height:16px;
+	color:#9eaaaf;
+}
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../../images/BLUE_STYLE/time_remain_bar.png);
+}
+
+/**  T&C page **/
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/**  Classification page **/
+
+.classTitle {
+	height:50px;
+}
+
+.classImageContentSpace {
+	height:3px;
+}
+
+.classSpace {
+	height:25px;
+}
+
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#ebebeb;
+	width:402px;
+}
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+.tableClass {
+	width: 474px;
+	height: 23px;
+	border-collapse: collapse;
+	padding: 0px;
+	border: 0;
+}
+
+.classImage {
+	width:44px;
+	height:23px;
+}
+
+.classImageTitleSpace {
+	width:12px;
+}
+
+/**  input box **/
+
+.inputBox {
+	background-image:url(../../images/BLUE_STYLE/inputbox_bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+.paddingLeftSelect {
+	padding-left: 3px;
+}
+
+.cateSelect {
+	background-image: url("../../images/BLUE_STYLE/highlight_bar.png");
+	background-repeat: repeat-x;
+}
+
+.movieTxt {
+	word-wrap: break-word;
+}
+.morePlan_show {
+        height: 32px;
+}
+
+.morePlan_hide {
+        height: 0px;
+}
+
+.morePlanUp {
+        font-size: 12px;
+}
+
+.morePlanDown {
+        font-size: 12px;
+}
+.series_list_hide {
+        display:none;
+}
+.unselect01 {
+        text-indent:0px;
+}
+.unselect02 {
+        text-indent:0px;
+        background-repeat:repeat-x;
+}
+.select02 {
+        text-indent:0px;
+        background-repeat:repeat-x;
+}
+.selectPlaylist .arrow{
+	background-image:url(../../images/ORANGE_STYLE/list_arrow_37.png);
+}
+/*
+.synopsis02{
+        word-wrap: break-word;
+        overflow: hidden;
+}
+*/
+body ,td, tr, div, span, p{
+        word-wrap: break-word;
+        overflow: hidden;
+}
+.termConditionTxt {
+        width:162px;
+}
+

@@ -1,0 +1,457 @@
+.bodyBg { 
+	background-image:url(../../images/PINK_STYLE/avbg.jpg);
+	background-repeat:no-repeat;
+}
+.body_e {
+	font-family: "Helvetica Neue (65 Medium)", Arial;
+	color:#ebebeb;
+}
+table {
+	border:0px;
+	padding:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	font-size:14px;
+
+}
+
+.logo {
+	position: relative;
+	top:10px;
+	text-indent:0px;
+}
+.paddingLeft25 {
+	padding-left:25px;
+}
+.paddingLeft18 {
+	padding-left:18px;
+}
+.paddingLeft15 {
+	padding-left:15px;
+}
+.paddingLeft13 {
+	padding-left:13px;
+}
+.paddingLeft10 {
+	padding-left:10px;
+}
+.paddingLeft6 {
+	padding-left:6px;
+}
+.paddingRight50 {
+	padding-right:50px;
+}
+.paddingRight20 {
+	padding-right:20px;
+}
+.paddingRight12 {
+	padding-right:12px;
+}
+.paddingRight10 {
+	padding-right:10px;
+}
+.paddingRight13 {
+	padding-right:13px;
+}
+.txtLetterSpace-1 {
+	letter-spacing:-1px;
+}	
+.txt01 {
+	font-size:14px;
+	color:#3d3d3d;
+}
+.txt02 {
+	font-size:14px;
+	color:#3d3d3d;
+}
+.txt03 {
+	font-size:12px;
+	color:#ebebeb;
+}
+.fontSize14 {
+	font-size:12px;
+}	
+.nowfontsize23 {
+	font-size:18px;
+	line-height:16px;
+}
+.txtInfo01 {
+	vertical-align:bottom;
+	font-size:11px;	
+	color:#888888;
+}
+.txtInfo02 {
+	font-size:12px;
+	color:#888888;
+	line-height:16px;
+}
+.txtInfo03 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:14px;
+}
+.txtInfo04 {
+	font-size:12px;
+	color:#ebebeb;
+	line-height:16px;
+}
+.txtInfo05 {
+	font-size:14px;
+	color:#000000;
+	line-height:16px;
+}
+
+.txtInvalid {
+	font-size:12px;
+	color:#73037d;
+	line-height:18px;
+	vertical-align:top;
+}
+.lineHeight35 {
+	line-height:35px;
+}	
+/**  select items **/
+
+.header01 {
+	background-image:url(../../images/PINK_STYLE/details_box_header01.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.header02 {
+	background-image:url(../../images/PINK_STYLE/details_box_header02.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.select01 {
+	background-image:url(../../images/PINK_STYLE/details_box_01_on.png);
+	color:#ffffff;
+	font-size:14px;
+	text-indent:40px;
+}
+.select02 {
+	background-image:url(../../images/PINK_STYLE/details_box_02_on.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.unselect01 {
+	background-image:url(../../images/PINK_STYLE/details_box_01_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.unselect02 {
+	background-image:url(../../images/PINK_STYLE/details_box_02_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+
+/**  details page items **/
+
+.title01 {	font-size:14px;	color:#f00027;	text-indent:18px;	line-height:26px;}
+.title02 {	text-indent:10px; color:#3d3d3d;	}
+
+.duration01 {	font-size:14px;	color:#f00027;	text-indent:18px;}
+.duration02 {	text-indent:10px; color:#3d3d3d;	}
+
+.language01 {	font-size:14px;	color:#f00027;	text-indent:10px;}
+.language02 {	color:#3d3d3d;	padding-left:20px;}
+
+.casthost01 {	font-size:14px;	color:#f00027;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.casthost02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top; color:#3d3d3d;	}
+
+.synopsis01 {	font-size:14px;	color:#f00027;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.synopsis02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top; color:#3d3d3d;	}
+
+.offairdate01 {	font-size:14px;	color:#034772;	text-indent:18px; }
+.offairdate02 {	text-indent:10px; color:#3d3d3d;}
+
+.currentcashpoint01 {	font-size:14px;	color:#034772;	text-indent:18px;}
+.currentcashpoint02 {	color:#ebebeb;	padding-left:20px; color:#3d3d3d;}
+
+
+
+/**  landing page **/
+
+.cateSelect {
+	color:#ffffff;
+	background-repeat: no-repeat;
+	background-image:url(../../images/PINK_STYLE/Cat_highlight.png);
+}
+.cateUnSelect {
+	color:#101010;
+}
+.pageNum {
+	font-size:14px;
+	line-height:16px;
+	padding-top:5px;
+	vertical-align:top;
+	text-align:center;
+	width:78px;
+	height:24px;
+}
+.pageNumBg {
+	background-image:url(../../images/PINK_STYLE/page_num_bg.png);
+	width:78px;
+	height:24px;
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+}
+
+.movieSelect {
+	background-image:url(../../images/PINK_STYLE/movie_bg_on.png);
+	background-repeat:no-repeat;
+	border:0px;
+}
+.movieUnSelect {
+	background-image:url(../../images/PINK_STYLE/movie_bg_off.png);
+	background-repeat:no-repeat;
+	border:0px;
+}
+.movieTxt {
+	width:115px;
+	height:35px;
+	font-size:12px;
+	line-height:15px;
+	vertical-align:top;
+	text-align: left;
+	padding-left:19px;
+	padding-right:19px;
+	text-indent:0px;
+	color:#000000;
+}
+.movie2Txt {
+	width:115px;
+	height:35px;
+	font-size:12px;
+	line-height:15px;
+	vertical-align:top;
+	text-align: left;
+	padding-left:19px;
+	padding-right:19px;
+	text-indent:0px;
+	color:#ffffff;
+}
+
+
+
+/**  playlist page **/
+.headerPlaylist {
+	background-image:url(../../images/PINK_STYLE/list_box_header474.png);
+	font-size:14px;
+	color:#ebebeb;
+}
+.selectPlaylist {
+	background-image:url(../../images/PINK_STYLE/list_box_on.png);
+	background-repeat:no-repeat;
+	color:#000000;
+}
+.unselectPlaylist {
+	background-image:url(../../images/PINK_STYLE/list_box_off.png);
+	background-repeat:no-repeat;
+	color:#000000;
+}
+
+
+.paddingTop4 {
+	font-size:14px;
+	color:#ebebeb;
+	vertical-align:top;
+	padding-top:4px;
+	line-height:18px;
+	border:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}	
+
+
+/**  svod subscription page **/
+.termConditionTxt {
+	vertical-align:top;
+	width:142px;
+	font-size:12px;
+	line-height:16px;
+	color:#3D3D3D;
+}
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../../images/PINK_STYLE/time_remain_bar.png);
+}
+
+
+/**  T&C page **/
+
+
+
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#3D3D3D;
+	line-height:20px;
+}
+
+/**  Classification page **/
+
+
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#3D3D3D;
+}
+
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#3D3D3D;
+	line-height:20px;
+}
+
+
+/**  ppv topup page **/
+
+.selectTopUp01 {
+	background-image:url(../../images/PINK_STYLE/topup_box_01_on.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+.unselectTopUp01 {
+	background-image:url(../../images/PINK_STYLE/topup_box_01_off.png);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+/**  input box **/
+
+.inputBox {
+	background-image:url(../../images/PINK_STYLE/inputbox_bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+} 
+
+
+/*style added from frontend*/
+.bodyBg {
+        background-image:url(../../images/PINK_STYLE/bg.jpg);
+        background-repeat:no-repeat;
+}
+
+.bodyBg_a { 
+	background-image:url(../../images/PINK_STYLE/bg.jpg);
+	background-repeat:no-repeat;
+}
+
+.paddingLeftSelect {
+	padding-left: 6px;
+	line-height: 15px;
+}
+
+.morePlan_show {
+	height: 32px;
+}
+
+.morePlan_hide {
+	height: 0px;
+}
+
+.morePlanUp {
+	margin-left:40px;
+	font-size:12px;
+	text-indent:0px;
+}
+
+.morePlanDown {
+	font-size:12px;
+	margin-left:40px;
+	text-indent:0px;
+}
+.series_list_hide {
+	display:none;
+}
+.inputBox {
+        background-image:url(../../images/PINK_STYLE/inputbox_bg.png);
+        background-repeat:no-repeat;
+        background-position:left;
+}
+.unselect01 {
+	text-indent:0px;
+}
+.unselect02 {
+	text-indent:0px;
+	background-repeat:repeat-x;
+}
+.select02 {
+	text-indent:0px;
+	background-repeat:repeat-x;
+}
+.cateSelect{
+	background-image:url(../../images/PINK_STYLE/highlight_bar.png);
+}
+#logo{
+	width:165px;
+	height:70px;
+}
+.movieSelect div{
+	width:140px;
+        height:37px;
+        font-size:14px;
+        line-height:18px;
+        vertical-align:top;
+        text-align: left;
+	word-wrap: break-word;
+	padding-left:10px;
+	color:#ffffff;
+}
+
+.movieUnSelect div{
+	width:140px;
+        height:37px;
+        font-size:14px;
+        line-height:18px;
+        vertical-align:top;
+	word-wrap: break-word;
+	padding-left:10px;
+        text-align: left;
+	color:#000000;
+}
+
+.pageNumBg {
+	margin-left:5px;
+	background-position:center;
+}
+/*
+.synopsis02{
+        word-wrap: break-word;
+        overflow: hidden;
+}
+*/
+body ,td, tr, div, span, p{
+        word-wrap: break-word;
+        overflow: hidden;
+}
+.termConditionTxt {
+        width:172px;
+        height: 300px;
+}
+
+#footer{
+        height:33px;
+}
+#disclaimer{
+	line-height: 13px;
+}
+

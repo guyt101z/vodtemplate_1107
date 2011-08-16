@@ -1,0 +1,325 @@
+.bodyBg1 { 
+	background-image:url(../images/bg_A.jpg);
+	background-repeat:no-repeat;
+}
+
+.bodyBg2 { 
+	background-image:url(../images/svod_background1.jpg);
+	background-repeat:no-repeat;
+}
+
+
+.bodyBg { 
+	background-image:url(../images/bg.jpg);
+	background-repeat:no-repeat;
+}
+.body_e {
+	font-family: "Helvetica Neue (65 Medium)", Arial;
+	color:#ebebeb;
+}
+table {
+	border:0px;
+	padding:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+	font-size:14px;
+
+}
+
+
+.logo {
+	position: relative;
+	top:0px;
+	text-indent:0px;
+}
+.paddingLeft25 {
+	padding-left:25px;
+}
+.paddingLeft18 {
+	padding-left:18px;
+}
+.paddingLeft13 {
+	padding-left:20px;
+}
+.paddingLeft10 {
+	padding-left:0px;
+}
+.paddingLeft6 {
+	padding-left:3px;
+}
+.paddingRight50 {
+	padding-right:50px;
+}
+.txtLetterSpace-1 {
+	letter-spacing:-1px;
+	}	
+.txt01 {
+	font-size:14px;
+	color:#ebebeb;
+}
+.txt02 {
+	font-size:14px;
+	color:#9eaaaf;
+}
+.txt03 {
+	font-size:12px;
+	color:#ebebeb;
+}
+.fontSize14 {
+	font-size:12px;
+}	
+.nowfontsize23 {
+	font-size:18px;
+	line-height:16px;
+}
+.txtInfo01 {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#9397a4;
+}
+.txtInfo02 {
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:16px;
+}
+.txtInfo03 {
+	vertical-align:bottom;
+	font-size:12px;
+	color:#9eaaaf;
+	line-height:14px;
+}
+.txtInfo04 {
+	font-size:12px;
+	color:#ebebeb;
+	line-height:16px;
+}
+
+.txtInvalid {
+	font-size:12px;
+	color:#ea3838;
+	line-height:18px;
+	vertical-align:top;
+}
+.lineHeight35 {
+	line-height:35px;
+}	
+/**  select items **/
+
+.header01 {
+	background-image:url(../images/details_box_header01.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.header02 {
+	background-image:url(../images/details_box_header02.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.select01 {
+	background-image:url(../images/details_box_01_on.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.select02 {
+	background-image:url(../images/details_box_02_on.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.unselect01 {
+	background-image:url(../images/details_box_01_off.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+.unselect02 {
+	background-image:url(../images/details_box_02_off.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:10px;
+}
+.now_height14px {
+    font-size: 18px;
+}
+
+/**  details page items **/
+
+.title01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	line-height:26px;}
+.title02 {	text-indent:10px;}
+
+.duration01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.duration02 {	text-indent:10px;}
+
+.language01 {	font-size:14px;	color:#9eaaaf;	text-indent:10px;}
+.language02 {	color:#ebebeb;	padding-left:20px;}
+
+.casthost01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.casthost02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.synopsis01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+.synopsis02 {	padding-left:10px;	padding-right:30px;	padding-top:8px;	line-height:18px;	vertical-align:top;}
+
+.offairdate01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.offairdate02 {	text-indent:10px;}
+
+.currentcashpoint01 {	font-size:14px;	color:#9eaaaf;	text-indent:18px;}
+.currentcashpoint02 {	color:#ebebeb;	padding-left:20px;}
+
+
+
+/**  landing page **/
+
+.cateSelect {
+	color:#000000;
+		line-height:16px;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	background-image:url(../images/svod_highlight.gif);
+	font-weight: normal;
+}
+.cateUnSelect {
+	color:#ebebeb;
+	line-height:16px;
+	vertical-align: middle;
+}
+.pageNum {
+	font-size:14px;
+	line-height:16px;
+	padding-top:8px;
+	vertical-align:top;
+	text-align:center;
+}
+.pageNumBg {
+	background-image:url(../images/page_num_bg.gif);
+	background-repeat:no-repeat;
+	background-position:552px 4px;
+}
+
+.movieSelect {
+	background-image:url(../images/svod_selecthighlight1.gif);
+	background-repeat:no-repeat;
+	width:129px;
+	height:89px;
+}
+.movieUnSelect {
+	background-image:url(../images/test_unselect.gif);
+	background-repeat:no-repeat;
+	width:129px;
+	height:89px;
+}
+.movieTxt {
+	width:115px;
+	height:37px;
+	font-size:14px;
+	line-height:18px;
+	vertical-align:top;
+	text-align: left;
+}
+
+
+
+
+/**  playlist page **/
+.headerPlaylist {
+	background-image:url(../images/list_box_header474.gif);
+	font-size:14px;
+	color:#ebebeb;
+}
+.selectPlaylist {
+	background-image:url(../images/list_box_on.gif);
+	background-repeat:no-repeat;
+}
+.unselectPlaylist {
+	background-image:url(../images/list_box_off.gif);
+	background-repeat:no-repeat;
+}
+
+
+.paddingTop4 {
+	font-size:14px;
+	color:#ebebeb;
+	vertical-align:top;
+	padding-top:4px;
+	line-height:18px;
+	border:0px;
+	margin: 0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}	
+
+
+/**  svod subscription page **/
+.termConditionTxt {
+	vertical-align:top;
+	width:142px;
+	font-size:12px;
+	line-height:16px;
+	color:#9eaaaf;
+}
+
+
+/**  ppv parental lock PIN page **/
+
+.timeRemainBar {
+	height:34px;
+	width:474px;
+	background-image:url(../images/time_remain_bar.gif);
+}
+
+
+/**  T&C page **/
+
+
+
+.txtTC {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+/**  Classification page **/
+
+
+.headClass {
+	vertical-align:bottom;
+	font-size:14px;
+	color:#ebebeb;
+}
+
+
+.txtClass {
+	vertical-align:top;
+	font-size:14px;
+	color:#ebebeb;
+	line-height:20px;
+}
+
+
+/**  ppv topup page **/
+
+.selectTopUp01 {
+	background-image:url(../images/topup_box_01_on.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+.unselectTopUp01 {
+	background-image:url(../images/topup_box_01_off.gif);
+	color:#ebebeb;
+	font-size:14px;
+	text-indent:40px;
+}
+
+/**  input box **/
+
+.inputBox {
+	background-image:url(../images/inputbox_bg.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+} 

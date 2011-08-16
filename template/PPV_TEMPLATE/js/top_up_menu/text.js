@@ -1,0 +1,17 @@
+var ui_lang = "e";
+var top_up_menu_txt_01="Press <img align='absmiddle' src='../../images/up_down_button.png'> and ENTER to select";
+var top_up_menu_txt_02="now DOLLAR Account Balance";
+var top_up_menu_txt_03="Current now DOLLAR:";
+var top_up_menu_txt_04="$";
+var top_up_menu_txt_05="Expiry Date:";
+var top_up_menu_txt_06="Top-up  now DOLLAR";
+var top_up_menu_txt_07="Go back to now Video Express";
+var top_up_menu_txt_08="For Payment History, please press MENU and select Billing Inquiry to view the details.";
+var top_up_menu_txt_09="Please select your top-up amount:";
+var top_up_menu_txt_10="You have selected to top-up:";
+var top_up_menu_txt_11="Total:";
+var top_up_menu_txt_12="Non-refundable after top-up confirmation";
+var top_up_menu_txt_13="Please input PIN and press ENTER to continue :";
+var top_up_menu_txt_14="Invalid PIN. Please try again.";
+var top_up_menu_txt_15="Thank You";
+var top_up_menu_txt_17="N/A";

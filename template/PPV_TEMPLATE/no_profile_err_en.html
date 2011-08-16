@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>NO PROFILE ERROR</title>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<script language='JavaScript' src='file:////javascript/iptv.js'></script>
+<script language='JavaScript'>
+
+var maxIdleSeconds = 5;
+
+function load() {
+	iptvRegisterKeyHandler(keyEvent);
+	
+	setTimeout("backToLastTunedChannel()", maxIdleSeconds * 1000);
+}
+
+function keyEvent(keycode) {
+
+}
+
+function backToLastTunedChannel() {
+	iptvPlayLastTunedChannel();
+}
+
+function getSTBID(){
+	var stbid;
+	stbid = iptvGetSTBID();
+	return stbid;
+}
+
+function getSTBSID() {
+	var stbsid;
+	stbsid = iptvGetSTBSessionID();
+	return stbsid;
+}
+
+function unload(){
+	iptvPauseVideo(true);
+}
+</script>
+</head>
+<body background="no_profile_err_en.gif" text="#000000" leftmargin="0" topmargin="0" onload="load()" onunload="unload()">
+<table width="640" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="430" width="150">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="bottom" align="center">&nbsp;80900</td>
+    <td>Sorry, we are currently performing regular system health check. Normal service will be resumed shortly. Please try again later.</td>
+  </tr>
+</table>		
+</body>
+</html>
